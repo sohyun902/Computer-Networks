@@ -61,3 +61,10 @@ The client receives a stored image from the server and displays it on the screen
 - The client enters a numeric ID.
 - The server converts the ID to a binary string and checks whether it exists in ID_authen_binary.txt.
 - If verification fails three times, the connection is terminated.
+
+## Video Files Download
+
+The project uses two video files which are too large for GitHub:
+
+- [Download video_2022.mp4](https://drive.google.com/file/d/1wlcRem1iaPVTBbtuMB-o71LSnkYTbG7c/view?usp=drive_link).
+- [Download video_2023.mp4](https://drive.google.com/file/d/1UInVEF4Itl-4A7HnWEIvYPaPTOlTBzmQ/view?usp=drive_link)
